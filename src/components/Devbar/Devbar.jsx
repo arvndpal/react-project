@@ -365,10 +365,10 @@ const Devbar = () => {
             target='_blank'
             rel='noreferrer'
           >
-            <b>Project React</b>
+            <b>React Project </b>
             <br />
             <span className='text-sm text-muted-foreground'>
-              Made by <b>Cosden</b> Solutions
+              Made by <b>Arvind Pal</b>
             </span>
           </a>
         </div>
